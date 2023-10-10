@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Aziz Zhussipov 4be52cf0</title>
+    <title>4be52cf0</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 
